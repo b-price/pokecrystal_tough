@@ -114,9 +114,9 @@ SecretHouseMoveTutorClear:
 	done
 	
 SecretHouseKangaskhanText:
-	text "KANGASKHAN: …"
+	text "KANG ASKED: …"
 
-	para "KANGASKHAN"
+	para "KANG ASKED"
 	line "has an untrusting"
 	cont "look…"
 	done

@@ -33,7 +33,7 @@ Route2ViridianForestGateNorthGrannyText:
 Route2ViridianForestGateNorthGengarText:
 	text "…"
 	
-	para "GENGAR's grin"
+	para "GENERA's grin"
 	line "pierces your soul…"
 	done
 

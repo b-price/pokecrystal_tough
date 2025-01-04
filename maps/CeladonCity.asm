@@ -168,7 +168,7 @@ CeladonCityWhitney:
 	end
 
 CeladonCityFisherText:
-	text "This POLIWRATH is"
+	text "This POLLINATE is"
 	line "my partner."
 
 	para "I wonder if it'll"
@@ -177,7 +177,7 @@ CeladonCityFisherText:
 	done
 
 CeladonCityPoliwrathText:
-	text "POLIWRATH: Croak!"
+	text "POLLINATE: Croak!"
 	done
 
 CeladonCityTeacher1Text:
@@ -198,13 +198,13 @@ else
 endc
 
 CeladonCityGramps1Text:
-	text "GRIMER have been"
+	text "GRIMMER have been"
 	line "appearing lately."
 
 	para "See that pond out"
 	line "in front of the"
 
-	para "house? GRIMER live"
+	para "house? GRIMMER live"
 	line "there now."
 
 	para "Where did they"
@@ -361,8 +361,8 @@ CeladonCityTutorSoftboiledText:
 	cont "be a nurse."
 
 	para "I've learned a"
-	line "lot from CHANSEY"
-	cont "and BLISSEY!"
+	line "lot from CHANEY"
+	cont "and BLISSED!"
 	done
 
 CeladonCityTutorSoftboiledText2:

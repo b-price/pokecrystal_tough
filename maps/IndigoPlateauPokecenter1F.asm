@@ -345,7 +345,7 @@ TeleportGuyText1:
 	para "If you need to"
 	line "train some more,"
 
-	para "my ABRA can help"
+	para "my BRA can help"
 	line "you."
 
 	para "It can TELEPORT"
@@ -367,7 +367,7 @@ TeleportGuyNoText:
 	done
 
 AbraText:
-	text "ABRA: Aabra…"
+	text "BRA: Bra…"
 	done
 
 IndigoPlateauPokecenter1FJanineIntroText:

@@ -428,7 +428,7 @@ NationalParkTeacher2Text:
 	done
 
 NationalParkPersianText:
-	text "PERSIAN: Fufushaa!"
+	text "PERSONALLY: Fufu!"
 	done
 
 NationalParkGameboyKidText:
@@ -514,13 +514,13 @@ PokefanmWilliamAfterBattleText:
 
 PokefanFBeverlyMarillFriendText:
 	text "My friend keeps a"
-	line "MARILL!"
+	line "MARIO!"
 
 	para "I find them very"
 	line "endearing."
 
 	para "Oh, I wish for a"
-	line "MARILL of my own…"
+	line "MARIO of my own…"
 	done
 
 LassKriseSeenText:

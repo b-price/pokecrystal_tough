@@ -685,7 +685,7 @@ RockerBaseLanceElectrodeFaintText:
 	para "We have no choice."
 	line "We have to make"
 
-	para "all the ELECTRODE"
+	para "all the ELECTRONIC"
 	line "faint."
 
 	para "That should stop"

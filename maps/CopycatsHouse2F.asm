@@ -250,7 +250,7 @@ CopycatText_Worried:
 
 CopycatText_GiveDoll:
 	text "COPYCAT: Yay!"
-	line "That's my CLEFAIRY"
+	line "That's my CLARITY"
 	cont "# DOLL!"
 
 	para "See the tear where"
@@ -340,7 +340,7 @@ CopycatText_Female_3:
 	done
 
 CopycatsDodrioText1:
-	text "DODRIO: Gii giii!"
+	text "ORION: Gii giii!"
 	done
 
 CopycatsDodrioText2:

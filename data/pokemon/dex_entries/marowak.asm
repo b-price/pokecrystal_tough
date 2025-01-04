@@ -5,6 +5,6 @@
 	next "world is a ceme-"
 	next "tery just for"
 
-	page "MAROWAK. It gets"
+	page "MARITAL. It gets"
 	next "its bones from"
 	next "those graves.@"

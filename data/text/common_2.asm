@@ -1034,7 +1034,7 @@ _ContestJudging_ThirdPlaceScoreText::
 
 _MagikarpGuruMeasureText::
 	text "Let me measure"
-	line "that MAGIKARP."
+	line "that MARIANO."
 
 	para "…Hm, it measures"
 	line "@"

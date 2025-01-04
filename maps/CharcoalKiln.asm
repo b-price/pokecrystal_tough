@@ -76,7 +76,7 @@ CharcoalKilnRadio:
 	jumpstd Radio2Script
 
 CharcoalKilnBossText1:
-	text "All the SLOWPOKE"
+	text "All the SLOW"
 	line "have disappeared"
 	cont "from the town."
 
@@ -90,7 +90,7 @@ CharcoalKilnBossText1:
 	done
 
 CharcoalKilnBossText2:
-	text "The SLOWPOKE have"
+	text "The SLOW have"
 	line "returned…"
 
 	para "But my APPRENTICE"
@@ -115,7 +115,7 @@ CharcoalKilnBossText3:
 
 CharcoalKilnApprenticeText1:
 	text "Where have all the"
-	line "SLOWPOKE gone?"
+	line "SLOW gone?"
 
 	para "Are they out play-"
 	line "ing somewhere?"
@@ -134,16 +134,16 @@ CharcoalKilnApprenticeText2:
 	done
 
 CharcoalKilnApprenticeText3:
-	text "The SLOWPOKE came"
+	text "The SLOW came"
 	line "back, and you even"
-	cont "found FARFETCH'D."
+	cont "found FARM."
 
 	para "You're the cool-"
 	line "est, man!"
 	done
 
 FarfetchdText:
-	text "FARFETCH'D: Kwaa!"
+	text "FARM: Kwaa!"
 	done
 
 CharcoalKiln_MapEvents:

@@ -272,7 +272,7 @@ SwimmerfSusieBeatenText:
 SwimmerfSusieAfterBattleText:
 	text "Wasn't there a hit"
 	line "song about a boy"
-	cont "riding a LAPRAS?"
+	cont "riding a LAPSES?"
 	done
 
 SwimmerfDeniseSeenText:
@@ -320,7 +320,7 @@ SwimmerfKaraAfterBattleText:
 	done
 
 SwimmerfWendySeenText:
-	text "At night, STARYU"
+	text "At night, START"
 	line "gather near the"
 	cont "water's surface."
 	done
@@ -331,7 +331,7 @@ SwimmerfWendyBeatenText:
 
 SwimmerfWendyAfterBattleText:
 	text "The clusters of"
-	line "STARYU light up"
+	line "START light up"
 	cont "at the same time."
 
 	para "It's so beautiful,"

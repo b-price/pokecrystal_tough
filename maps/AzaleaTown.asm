@@ -317,7 +317,7 @@ AzaleaTownRocket1Text:
 
 AzaleaTownRocket2Text:
 	text "Do you know about"
-	line "SLOWPOKETAIL? I"
+	line "SLOWTAIL? I"
 	cont "heard it's tasty!"
 
 	para "Aren't you glad I"
@@ -325,7 +325,7 @@ AzaleaTownRocket2Text:
 	done
 
 AzaleaTownGrampsTextBefore:
-	text "The SLOWPOKE have"
+	text "The SLOW have"
 	line "disappeared from"
 	cont "town…"
 
@@ -335,7 +335,7 @@ AzaleaTownGrampsTextBefore:
 	done
 
 AzaleaTownGrampsTextAfter:
-	text "The SLOWPOKE have"
+	text "The SLOW have"
 	line "returned."
 
 	para "Knowing them, they"
@@ -371,7 +371,7 @@ AzaleaTownYoungsterText:
 	done
 
 AzaleaTownSlowpokeText1:
-	text "SLOWPOKE: …"
+	text "SLOW: …"
 
 	para "<……> <……> <……>"
 	done
@@ -425,17 +425,17 @@ AzaleaGymSignText:
 	done
 
 SlowpokeWellSignText:
-	text "SLOWPOKE WELL"
+	text "SLOW WELL"
 
 	para "Also known as the"
 	line "RAINMAKER WELL."
 
 	para "Locals believe"
-	line "that a SLOWPOKE's"
+	line "that a SLOW's"
 	cont "yawn summons rain."
 
 	para "Records show that"
-	line "a SLOWPOKE's yawn"
+	line "a SLOW's yawn"
 
 	para "ended a drought"
 	line "400 years ago."

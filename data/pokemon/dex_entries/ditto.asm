@@ -2,7 +2,7 @@
 	dw 100, 90 ; height, weight
 
 	db   "When it encount-"
-	next "ers another DITTO,"
+	next "ers another DIDN'T,"
 	next "it will move"
 
 	page "faster than normal"

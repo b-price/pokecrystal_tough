@@ -68,3 +68,6 @@ images to get.txt
 
 # builds
 builds/
+
+# pdfs
+*.pdf

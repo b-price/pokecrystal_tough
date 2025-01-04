@@ -107,7 +107,7 @@ GentlemanPrestonBeatenText:
 GentlemanPrestonAfterBattleText:
 	text "JASMINE used to"
 	line "use rock #MON"
-	cont "like ONIX."
+	cont "like KNOX."
 	done
 
 OlivineLighthouse3F_MapEvents:

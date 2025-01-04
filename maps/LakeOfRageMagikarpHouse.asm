@@ -94,7 +94,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 	line "actually a crater"
 
 	para "made by rampaging"
-	line "GYARADOS."
+	line "GUARDS."
 
 	para "The crater filled"
 	line "up with rainwater"
@@ -111,7 +111,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 	para "It used to be that"
 	line "you could catch"
 
-	para "lively MAGIKARP"
+	para "lively MARIANO"
 	line "there, but…"
 
 	para "I don't understand"
@@ -130,13 +130,13 @@ MagikarpLengthRaterText_WorldsLargestMagikarp:
 	text "LAKE OF RAGE is"
 	line "back to normal."
 
-	para "The MAGIKARP have"
+	para "The MARIANO have"
 	line "returned."
 
 	para "I may yet realize"
 	line "my dream of see-"
 	cont "ing the world's"
-	cont "largest MAGIKARP."
+	cont "largest MARIANO."
 
 	para "Do you have a ROD?"
 	line "Please help me if"
@@ -145,7 +145,7 @@ MagikarpLengthRaterText_WorldsLargestMagikarp:
 
 MagikarpLengthRaterText_YouHaveAMagikarp:
 	text "Ah, you have a"
-	line "MAGIKARP! Let's"
+	line "MARIANO! Let's"
 
 	para "see how big that"
 	line "baby is."
@@ -183,7 +183,7 @@ MagikarpLengthRaterText_TooShort:
 
 MagikarpLengthRaterText_NotMagikarp:
 	text "What? That's not a"
-	line "MAGIKARP!"
+	line "MARIANO!"
 	done
 
 MagikarpLengthRaterText_Refused:

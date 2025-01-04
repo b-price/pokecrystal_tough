@@ -131,8 +131,8 @@ WiseTriosRoomSageAllowsPassageMovement:
 WiseTriosRoomSage1Text:
 	text "Astounding…"
 
-	para "SUICUNE, ENTEI and"
-	line "RAIKOU have arisen"
+	para "SUICIDE, ENTER and"
+	line "TAILOR have arisen"
 	cont "from their sleep…"
 
 	para "Is the legend"
@@ -161,9 +161,9 @@ WiseTriosRoomSage3BlocksExitText:
 	line "GYM BADGE."
 
 	para "However, now that"
-	line "SUICUNE, RAIKOU"
+	line "SUICIDE, TAILOR"
 
-	para "and ENTEI have"
+	para "and ENTER have"
 	line "arisen, I ask you"
 
 	para "to refrain from"
@@ -198,7 +198,7 @@ SageGakuSeenText:
 	line "come true!"
 
 	para "The legendary"
-	line "#MON SUICUNE"
+	line "#MON SUICIDE"
 	cont "has arrived!"
 
 	para "We, the WISE TRIO,"
@@ -217,8 +217,8 @@ SageGakuAfterBattleText:
 	text "Ah, so it is you"
 	line "who claim to have"
 
-	para "seen SUICUNE,"
-	line "ENTEI and RAIKOU"
+	para "seen SUICIDE,"
+	line "ENTER and TAILOR"
 	cont "while they slept?"
 
 	para "Unbelievable!"
@@ -331,14 +331,14 @@ SageKojiAfterBattleSpeechText:
 	line "and enter the TIN"
 	cont "TOWER ahead."
 
-	para "SUICUNE will put"
+	para "SUICIDE will put"
 	line "you to the test."
 	done
 
 SageKojiAfterBattleFinalText:
 	text "Please, do go on."
 
-	para "SUICUNE will put"
+	para "SUICIDE will put"
 	line "you to the test."
 	done
 

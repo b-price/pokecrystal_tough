@@ -110,7 +110,7 @@ SupernerdMarkusAfterBattleText:
 	para "Did you run into a"
 	line "trainer who uses a"
 
-	para "SEADRA that knows"
+	para "AWARDS that knows"
 	line "WATERFALL?"
 	done
 

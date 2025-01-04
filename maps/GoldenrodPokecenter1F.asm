@@ -545,7 +545,7 @@ GoldenrodPokecomCenterPerson2Text: ; unreferenced
 	line "new thing for the"
 	cont "TRADE CORNER!"
 
-	para "I make a PIDGEY"
+	para "I make a PUDGY"
 	line "hold MAIL, then"
 
 	para "put it up for"
@@ -558,7 +558,7 @@ GoldenrodPokecomCenterPerson2Text: ; unreferenced
 	para "be traded with all"
 	line "sorts of people!"
 
-	para "I call it PIDGEY"
+	para "I call it PUDGY"
 	line "MAIL!"
 
 	para "If it becomes"
@@ -583,7 +583,7 @@ GoldenrodPokecomCenterPerson4Text: ; unreferenced
 	text "Some girl I don't"
 	line "know sent me her"
 
-	para "HOPPIP."
+	para "HIPPO."
 	line "You should trade"
 
 	para "for a #MON that"
@@ -592,7 +592,7 @@ GoldenrodPokecomCenterPerson4Text: ; unreferenced
 
 GoldenrodPokecomCenterPerson5Text: ; unreferenced
 	text "I received a"
-	line "female HOPPIP, but"
+	line "female HIPPO, but"
 	cont "its named STANLEY!"
 
 	para "That's my dad's"

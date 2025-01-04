@@ -32,18 +32,18 @@ SlowpokeWellB2FTMRainDance:
 
 SlowpokeWellB2FGymGuideText:
 	text "I'm waiting to see"
-	line "SLOWPOKE's moment"
+	line "SLOW's moment"
 	cont "of evolution."
 
 	para "Through observa-"
 	line "tion, I made a new"
 	cont "discovery."
 
-	para "A SLOWPOKE with a"
+	para "A SLOW with a"
 	line "KING'S ROCK often"
 
 	para "gets bitten by a"
-	line "SHELLDER."
+	line "SHELTER."
 
 	para "Here, I'll share a"
 	line "KING'S ROCK with"
@@ -52,7 +52,7 @@ SlowpokeWellB2FGymGuideText:
 
 SlowpokeWellB2FGymGuideText_GotKingsRock:
 	text "I'm going to be"
-	line "like SLOWPOKE."
+	line "like SLOW."
 
 	para "I'll wait patient-"
 	line "ly, so I can see"

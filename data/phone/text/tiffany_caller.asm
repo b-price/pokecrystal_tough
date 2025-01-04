@@ -20,7 +20,7 @@ TiffanyDefeatedMonText:
 	text " a while"
 	line "ago…"
 
-	para "My CLEFAIRY came"
+	para "My CLARITY came"
 	line "close to fainting!"
 
 	para "Isn't that awful?"
@@ -40,7 +40,7 @@ TiffanyLostAMonText:
 	text " a while"
 	line "ago…"
 
-	para "My CLEFAIRY got"
+	para "My CLARITY got"
 	line "frightened, so we"
 
 	para "ran away as fast"
@@ -48,7 +48,7 @@ TiffanyLostAMonText:
 
 	para "I just can't help"
 	line "feeling protective"
-	cont "of my CLEFAIRY."
+	cont "of my CLARITY."
 	done
 
 TiffanyBattleRematchText:
@@ -59,7 +59,7 @@ TiffanyBattleRematchText:
 	line "battle?"
 
 	para "I'll be waiting"
-	line "with CLEFAIRY on"
+	line "with CLARITY on"
 	cont "@"
 	text_ram wStringBuffer5
 	text "."
@@ -70,7 +70,7 @@ TiffanyItsAwfulText:
 	text "!"
 
 	para "It's awful."
-	line "My CLEFAIRY…"
+	line "My CLARITY…"
 
 	para "Huh? <PLAY_G>?"
 
@@ -90,7 +90,7 @@ TiffanyFoundItemText:
 	line "BOWS at GOLDENROD"
 
 	para "DEPT.STORE for my"
-	line "CLEFAIRY."
+	line "CLARITY."
 
 	para "I got too many, so"
 	line "I'll give you one!"
@@ -103,14 +103,14 @@ TiffanyFoundItemText:
 
 TiffanyNoItemText:
 	text "I love dressing up"
-	line "my CLEFAIRY!"
+	line "my CLARITY!"
 	done
 
 TiffanyAsleepText:
 	text "What's wrong?"
 	line "Can't you visit?"
 
-	para "CLEFAIRY got tired"
+	para "CLARITY got tired"
 	line "and fell asleep."
 
 	para "I'm not sure if I"
@@ -128,7 +128,7 @@ TiffanyHurryText:
 
 	para "I'm sure this will"
 	line "look good on your"
-	cont "CLEFAIRY."
+	cont "CLARITY."
 
 	para "Please hurry to"
 	line "@"

@@ -2,7 +2,7 @@
 	dw 607, 1750 ; height, weight
 
 	db   "Every time it ya-"
-	next "wns, SHELLDER"
+	next "wns, SHELTER"
 	next "injects more poi-"
 
 	page "son into it. The"

@@ -324,17 +324,17 @@ _LookTownMapText::
 
 _LookPikachuPosterText::
 	text "It's a poster of a"
-	line "cute PIKACHU."
+	line "cute PIKA HI."
 	done
 
 _LookClefairyPosterText::
 	text "It's a poster of a"
-	line "cute CLEFAIRY."
+	line "cute CLARITY."
 	done
 
 _LookJigglypuffPosterText::
 	text "It's a poster of a"
-	line "cute JIGGLYPUFF."
+	line "cute JIGGLE."
 	done
 
 _LookAdorableDecoText::

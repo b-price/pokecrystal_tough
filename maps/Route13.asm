@@ -120,18 +120,18 @@ PokefanmAlexAfterBattleText:
 PokefanmJoshuaSeenText:
 	text "Nihihi! Would you"
 	line "like to battle my"
-	cont "PIKACHU gang?"
+	cont "PIKA HI gang?"
 	done
 
 PokefanmJoshuaBeatenText:
-	text "PI-PIKACHU!"
+	text "PI-PIKA HI!"
 	done
 
 PokefanmJoshuaAfterBattleText:
 	text "You look like you"
 	line "have many #MON,"
 
-	para "but PIKACHU is"
+	para "but PIKA HI is"
 	line "still the best."
 	done
 
@@ -173,7 +173,7 @@ BirdKeeperBretAfterBattleText:
 HikerKennySeenText:
 	text "I should go to"
 	line "ROCK TUNNEL to get"
-	cont "myself an ONIX."
+	cont "myself an KNOX."
 	done
 
 HikerKennyBeatenText:

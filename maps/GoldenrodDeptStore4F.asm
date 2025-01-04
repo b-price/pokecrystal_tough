@@ -59,10 +59,10 @@ GoldenrodDeptStore4FGameboyKidText:
 	line "Game Link cable."
 
 	para "I know of four:"
-	line "MACHOKE, KADABRA,"
+	line "MACHO, KANDAHAR,"
 
-	para "HAUNTER and, um,"
-	line "GRAVELER."
+	para "HAUNT and, um,"
+	line "GROVELER."
 
 	para "I heard there are"
 	line "others too."

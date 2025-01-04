@@ -140,7 +140,7 @@ LizSurfPikachuGossipText:
 	para "But I can't seem"
 	line "to get a hold of a"
 
-	para "SURF PIKACHU DOLL."
+	para "SURF PIKA HI DOLL."
 	line "None of my friends"
 
 	para "have it. It must"
@@ -227,12 +227,12 @@ LizBugCatchingContestGossipText:
 
 	para "I did once, but"
 	line "all I could catch"
-	cont "was a CATERPIE."
+	cont "was a CATERER."
 
 	para "But guess what!"
 
 	para "I won with that"
-	line "CATERPIE. Isn't"
+	line "CATERER. Isn't"
 	cont "that great?"
 	done
 

@@ -34,7 +34,7 @@ Route2ViridianForestGateSouthOfficerText:
 	done
 	
 Route2ViridianForestGateSouthBugCatcherText:
-	text "I love my WEEDLE!"
+	text "I love my WEED LE!"
 
 	para "Even if it uses"
 	line "POISON STING on"
@@ -42,7 +42,7 @@ Route2ViridianForestGateSouthBugCatcherText:
 	done
 	
 Route2ViridianForestGateSouthWeedleText:
-	text "WEEDLE: Weed!"
+	text "WEED LE: Weed!"
 	done
 	
 Route2ViridianForestGateSouth_MapEvents:

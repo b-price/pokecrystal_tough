@@ -168,7 +168,7 @@ Route34IlexForestGateTeacherCantText:
 	done
 
 Route34IlexForestGateButterfreeText:
-	text "BUTTERFREE: Freeh!"
+	text "BUTTERED: Freeh!"
 	done
 
 Route34IlexForestGateLassText:

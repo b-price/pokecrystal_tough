@@ -201,7 +201,7 @@ FightingDojoBlackBelt1Text:
 	done
 	
 MachokeText:
-	text "MACHOKE: Macho!"
+	text "MACHO: Macho!"
 	done
 	
 BlackbeltHiroshiSeenText:
@@ -303,7 +303,7 @@ BlackbeltKiyoBeatenText:
 BlackbeltKiyoAfterBattleText:
 	text "Such power!"
 	line "Move aside,"
-	cont "MACHOKE!"
+	cont "MACHO!"
 
 	para "I want you to have"
 	line "the item behind me"
@@ -326,7 +326,7 @@ BlackbeltKiyoAfterBattleText:
 
 BlackbeltKiyoTyrogueQuestion:
 	text "By the way,"
-	line "how's TYROGUE"
+	line "how's ROGUE"
 	cont "doing?"
 	
 	para "I hope you've"

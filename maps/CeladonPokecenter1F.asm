@@ -128,8 +128,8 @@ NoBeastsText:
 	para "Have you caught"
 	line "the legendary"
 
-	para "#MON RAIKOU and"
-	line "ENTEI?"
+	para "#MON TAILOR and"
+	line "ENTER?"
 
 	para "<……><……><……>"
 

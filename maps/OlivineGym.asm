@@ -230,7 +230,7 @@ OlivineGymGuideHintText:
 
 	para "But she still man-"
 	line "ages to visit"
-	cont "AMPHY every"
+	cont "AMPY every"
 
 	para "WEDNESDAY and"
 	line "FRIDAY."

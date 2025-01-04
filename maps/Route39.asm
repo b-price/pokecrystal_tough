@@ -209,12 +209,12 @@ SailorEugeneAfterBattleText:
 PokefanmDerekSeenText:
 	text "This is a good"
 	line "time to brag about"
-	cont "my PIKACHU!"
+	cont "my PIKA HI!"
 	done
 
 PokefanmDerekBeatenText:
 	text "I had no time to"
-	line "show off PIKACHU…"
+	line "show off PIKA HI…"
 	done
 
 PokefanMDerekText_NotBragging:
@@ -251,7 +251,7 @@ PokefanfRuthAfterBattleText:
 	done
 
 PokefanMDerekPikachuIsItText:
-	text "PIKACHU is it!"
+	text "PIKA HI is it!"
 	line "Don't you agree?"
 	done
 
@@ -295,7 +295,7 @@ PokefanfJaimeBeatenText:
 	done
 
 PokefanfJaimeAfterBattleText:
-	text "I met my MEOWTH at"
+	text "I met my MOUTH at"
 	line "night, right here"
 	cont "on ROUTE 39."
 

@@ -102,8 +102,8 @@ PokefanmCarterBeatenText:
 	done
 
 PokefanmCarterAfterBattleText:
-	text "BLASTOISE, CHARI-"
-	line "ZARD and VENUSAUR…"
+	text "BLASTOFFS, CHARGE"
+	line "and VENUS AIR…"
 
 	para "I think that's a"
 	line "well-balanced mix."
@@ -141,8 +141,8 @@ PokefanmTrevorSeenText:
 
 PokefanmTrevorBeatenText:
 	text "Where did I meet"
-	line "this PSYDUCK"
-	cont "and GOLDUCK?"
+	line "this PAY DUCK"
+	cont "and GOLDIE?"
 	done
 
 PokefanmTrevorAfterBattleText:

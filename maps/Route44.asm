@@ -320,7 +320,7 @@ Route44HiddenElixer:
 
 FisherWilton1SeenText:
 	text "Aack! You made me"
-	line "lose a POLIWAG!"
+	line "lose a POLLYWOG!"
 
 	para "What are you going"
 	line "to do about it?"
@@ -332,7 +332,7 @@ FisherWilton1BeatenText:
 	done
 
 FisherWiltonHugePoliwagText:
-	text "That POLIWAG that"
+	text "That POLLYWOG that"
 	line "got away…"
 	cont "It was huge."
 
@@ -377,8 +377,8 @@ BirdKeeperVance1BeatenText:
 	done
 
 BirdKeeperVanceLegendaryBirdsText:
-	text "ARTICUNO, ZAPDOS"
-	line "and MOLTRES are"
+	text "ARTICULATE, ZAPPOS"
+	line "and MOLTERS are"
 
 	para "the three legend-"
 	line "ary bird #MON."

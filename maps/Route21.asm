@@ -157,7 +157,7 @@ SwimmermWalterBeatenText:
 
 SwimmermWalterAfterBattleText:
 	text "I once saw a"
-	line "PIKACHU surfing"
+	line "PIKA HI surfing"
 	cont "out here."
 	
 	para "It was wild!"
@@ -244,7 +244,7 @@ FisherJazAfterBattleText:
 FisherMandoSeenText:
 	text "I have the"
 	line "strongest"
-	cont "MAGIKARP anywhere!"
+	cont "MARIANO anywhere!"
 	done
 
 FisherMandoBeatenText:
@@ -256,7 +256,7 @@ FisherMandoAfterBattleText:
 	line "saying much…"
 	
 	para "But I love my"
-	line "MAGIKARP all the"
+	line "MARIANO all the"
 	cont "same!"
 	done
 

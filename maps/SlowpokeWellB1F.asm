@@ -208,7 +208,7 @@ GruntM29AfterBattleText:
 	text "Sure, we've been"
 	line "hacking the tails"
 
-	para "off SLOWPOKE and"
+	para "off SLOW and"
 	line "selling them."
 
 	para "Everything we do"
@@ -284,7 +284,7 @@ GruntF1BeatenText:
 	done
 
 GruntF1AfterBattleText:
-	text "SLOWPOKETAILS"
+	text "SLOWTAILS"
 	line "grow back fast!"
 
 	para "What's wrong with"
@@ -292,7 +292,7 @@ GruntF1AfterBattleText:
 	done
 
 SlowpokeWellB1FSlowpokeWithMailText:
-	text "A SLOWPOKE with"
+	text "A SLOW with"
 	line "its TAIL cut off…"
 
 	para "Huh? It has MAIL."
@@ -307,13 +307,13 @@ SlowpokeWellB1FSlowpokeMailText:
 	line "after the house"
 
 	para "with Grandpa and"
-	line "SLOWPOKE."
+	line "SLOW."
 
 	para "Love, Dad"
 	done
 
 SlowpokeWellB1FTaillessSlowpokeText:
-	text "A SLOWPOKE with"
+	text "A SLOW with"
 	line "its TAIL cut off…"
 	done
 

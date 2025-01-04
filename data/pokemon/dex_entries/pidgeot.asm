@@ -5,6 +5,6 @@
 	next "vision allows it"
 	next "to spot splashing"
 
-	page "MAGIKARP, even"
+	page "MARIANO, even"
 	next "while flying at"
 	next "3300 feet.@"

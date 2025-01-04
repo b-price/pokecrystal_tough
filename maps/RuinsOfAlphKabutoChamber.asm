@@ -224,7 +224,7 @@ RuinsOfAlphKabutoChamberWallPatternLeftText:
 	done
 
 RuinsOfAlphKabutoChamberUnownText: ; unreferenced
-	text "It's UNOWN text!"
+	text "It's I OWN text!"
 	done
 
 RuinsOfAlphKabutoChamberWallPatternRightText:

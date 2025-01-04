@@ -299,7 +299,7 @@ BugCatcherAlAfterBattleText:
 
 BugCatcherJoshSeenText:
 	text "You saved all the"
-	line "SLOWPOKE? Whew,"
+	line "SLOW? Whew,"
 	cont "you're mighty!"
 
 	para "But my grown-up"

@@ -6,5 +6,5 @@
 	next "calm raging sto-"
 
 	page "rms. It is said"
-	next "that LUGIA appears"
+	next "that LUCIA appears"
 	next "when storms start.@"

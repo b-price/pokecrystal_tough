@@ -124,14 +124,14 @@ AnthonyReminderText:
 
 AnthonyHurryText:
 	text "Hello? What? Where"
-	line "is DUNSPARCE?"
+	line "is DUNNO?"
 
 	para "DARK CAVE! Hurry!"
 
 	para "I know I've said"
 	line "it before, but"
 
-	para "DUNSPARCE don't"
+	para "DUNNO don't"
 	line "appear when there"
 
 	para "are strong #MON"

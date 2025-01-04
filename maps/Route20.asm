@@ -236,7 +236,7 @@ SwimmermHalSeenText:
 	text "Yeowch!"
 
 	para "I got stung by a"
-	line "TENTACOOL!"
+	line "TENTS COOL!"
 	done
 
 SwimmermHalBeatenText:
@@ -269,7 +269,7 @@ SwimmermPatonAfterBattleText:
 	
 	para "but there's a"
 	line "huge lake filled"
-	cont "with MAGIKARP."
+	cont "with MARIANO."
 	done
 	
 FisherHungSeenText:

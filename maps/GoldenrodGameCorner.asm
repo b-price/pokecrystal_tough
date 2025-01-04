@@ -238,9 +238,9 @@ GoldenrodGameCornerPrizeMonVendorScript:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "ABRA        100@"
-	db "CUBONE      800@"
-	db "WOBBUFFET  1500@"
+	db "BRA         100@"
+	db "CUBAN       800@"
+	db "WOBBLY     1500@"
 	db "CANCEL@"
 
 GoldenrodGameCornerPharmacistScript:

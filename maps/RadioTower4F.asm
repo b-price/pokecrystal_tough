@@ -117,7 +117,7 @@ RadioTower4FDJMaryText:
 	line "I have to suffer"
 	cont "through this?"
 
-	para "MEOWTH, help me!"
+	para "MOUTH, help me!"
 	done
 
 RadioTower4FDJMaryText_ClearedRockets:
@@ -145,7 +145,7 @@ RadioTower4FDJMaryText_After:
 	done
 
 RadioTowerMeowthText:
-	text "MEOWTH: Meowth…"
+	text "MOUTH: Mouwth…"
 	done
 
 GruntM10SeenText:

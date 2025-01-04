@@ -197,7 +197,7 @@ RuinsOfAlphResearchCenterModifiedDexText:
 	para "I added an"
 	line "optional #DEX"
 
-	para "to store UNOWN"
+	para "to store I OWN"
 	line "data."
 
 	para "It records them in"
@@ -211,7 +211,7 @@ RuinsOfAlphResearchCenterDexUpgradedText:
 	done
 
 RuinsOfAlphResearchCenterScientist3Text:
-	text "The UNOWN you"
+	text "The I OWN you"
 	line "catch will all be"
 	cont "recorded."
 
@@ -221,14 +221,14 @@ RuinsOfAlphResearchCenterScientist3Text:
 
 RuinsOfAlphResearchCenterScientist3_PrinterAvailable:
 	text "You caught all the"
-	line "UNOWN variations?"
+	line "I OWN variations?"
 
 	para "That's a great"
 	line "achievement!"
 
 	para "I've set up the"
 	line "printer here for"
-	cont "handling UNOWN."
+	cont "handling I OWN."
 
 	para "Feel free to use"
 	line "it anytime."
@@ -354,7 +354,7 @@ RuinsOfAlphResearchCenterComputerText:
 
 RuinsOfAlphResearchCenterComputerText_GotAllUnown:
 	text "Mystery #MON"
-	line "Name: UNOWN"
+	line "Name: I OWN"
 
 	para "A total of {d:NUM_UNOWN}"
 	line "kinds found."
@@ -366,7 +366,7 @@ RuinsOfAlphResearchCenterPrinterText_DoesntWork:
 	done
 
 RuinsOfAlphResearchCenterUnownPrinterText:
-	text "UNOWN may be"
+	text "I OWN may be"
 	line "printed out."
 	done
 

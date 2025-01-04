@@ -45,7 +45,7 @@ PlayersNeighborsHouseRadioScript:
 	end
 
 PlayersNeighborsDaughterText:
-	text "PIKACHU is an"
+	text "PIKA HI is an"
 	line "evolved #MON."
 
 	para "I was amazed by"

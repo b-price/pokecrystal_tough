@@ -295,10 +295,10 @@ LakeOfRageLanceTeleportIntoSkyMovement:
 
 LakeOfRageLanceForcedToEvolveText:
 	text "This lake is full"
-	line "of GYARADOS but"
+	line "of GUARDS but"
 	cont "nothing else…"
 
-	para "So the MAGIKARP"
+	para "So the MARIANO"
 	line "are being forced"
 	cont "to evolve…"
 	done
@@ -335,7 +335,7 @@ LakeOfRageLanceRadioSignalText:
 	text "LANCE: Excellent!"
 
 	para "It seems that the"
-	line "LAKE's MAGIKARP"
+	line "LAKE's MARIANO"
 
 	para "are being forced"
 	line "to evolve."
@@ -362,7 +362,7 @@ LakeOfRageLanceAskHelpText:
 	done
 
 LakeOfRageGyaradosCryText:
-	text "GYARADOS: Gyashaa!"
+	text "GUARDS: Gyashaa!"
 	done
 
 LakeOfRageGotRedScaleText:
@@ -371,21 +371,21 @@ LakeOfRageGotRedScaleText:
 	done
 
 LakeOfRageGrampsText:
-	text "The GYARADOS are"
+	text "The GUARDS are"
 	line "angry!"
 
 	para "It's a bad omen!"
 	done
 
 LakeOfRageGrampsText_ClearedRocketHideout:
-	text "Hahah! The MAGI-"
-	line "KARP are biting!"
+	text "Hahah! The MARI-"
+	line "ANO are biting!"
 	done
 
 LakeOfRageSuperNerdText:
 	text "I heard this lake"
 	line "was made by ram-"
-	cont "paging GYARADOS."
+	cont "paging GUARDS."
 
 	para "I wonder if there"
 	line "is any connection"
@@ -398,11 +398,11 @@ LakeOfRageCooltrainerFText:
 	text "Did my eyes de-"
 	line "ceive me? I saw a"
 
-	para "red GYARADOS in"
+	para "red GUARDS in"
 	line "the LAKE…"
 
 	para "But I thought"
-	line "GYARADOS were"
+	line "GUARDS were"
 	cont "usually blue?"
 	done
 
@@ -470,7 +470,7 @@ CooltrainermAaronAfterBattleText:
 
 CooltrainerfLoisSeenText:
 	text "What happened to"
-	line "the red GYARADOS?"
+	line "the red GUARDS?"
 
 	para "It's gone?"
 
@@ -488,7 +488,7 @@ CooltrainerfLoisBeatenText:
 CooltrainerfLoisAfterBattleText:
 	text "Come to think of"
 	line "it, I've seen a"
-	cont "pink BUTTERFREE."
+	cont "pink BUTTERED."
 	done
 
 MeetWesleyText:
@@ -583,7 +583,7 @@ LakeOfRageClairAfterBattleText:
 LakeOfRageSignText:
 	text "LAKE OF RAGE,"
 	line "also known as"
-	cont "GYARADOS LAKE."
+	cont "GUARDS LAKE."
 	done
 
 FishingGurusHouseSignText:

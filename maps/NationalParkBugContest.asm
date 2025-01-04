@@ -122,7 +122,7 @@ BugCatchingContestant1AText:
 	done
 
 BugCatchingContestant2AText:
-	text "ED: My PARASECT"
+	text "ED: My PARSECS"
 	line "puts #MON to"
 	cont "sleep with SPORE."
 	done
@@ -144,7 +144,7 @@ BugCatchingContestant4AText:
 
 BugCatchingContestant5AText:
 	text "BENNY: Ssh! You'll"
-	line "scare off SCYTHER."
+	line "scare off SCYTHE."
 
 	para "I'll talk to you"
 	line "later."

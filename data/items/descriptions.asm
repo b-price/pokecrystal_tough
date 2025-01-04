@@ -376,7 +376,7 @@ CarbosDesc:
 
 LuckyPunchDesc:
 	db   "Ups critical hit"
-	next "ratio of CHANSEY.@"
+	next "ratio of CHANEY.@"
 
 CalciumDesc:
 	db   "Ups SPECIAL stats"
@@ -396,7 +396,7 @@ LeafStoneDesc:
 
 MetalPowderDesc:
 	db   "Raises DEFENSE of"
-	next "DITTO. (HOLD)@"
+	next "DIDN'T. (HOLD)@"
 
 NuggetDesc:
 	db   "Made of pure gold."
@@ -520,7 +520,7 @@ ElixerDesc:
 
 RedScaleDesc:
 	db   "A scale from the"
-	next "red GYARADOS.@"
+	next "red GUARDS.@"
 
 SecretPotionDesc:
 	db   "Fully heals any"
@@ -955,11 +955,11 @@ BrickPieceDesc:
 	next "tile.@"
 
 SurfMailDesc:
-	db   "LAPRAS-print MAIL."
+	db   "LAPSES-print MAIL."
 	next "(HOLD)@"
 
 LiteBlueMailDesc:
-	db   "DRATINI-print"
+	db   "DRAINS-print"
 	next "MAIL. (HOLD)@"
 
 PortraitMailDesc:
@@ -971,11 +971,11 @@ LovelyMailDesc:
 	next "(HOLD)@"
 
 EonMailDesc:
-	db   "EEVEE-print MAIL."
+	db   "EVER-print MAIL."
 	next "(HOLD)@"
 
 MorphMailDesc:
-	db   "DITTO-print MAIL."
+	db   "DIDN'T-print MAIL."
 	next "(HOLD)@"
 
 BlueSkyMailDesc:
@@ -983,11 +983,11 @@ BlueSkyMailDesc:
 	next "(HOLD)@"
 
 MusicMailDesc:
-	db   "NATU-print MAIL."
+	db   "NATE-print MAIL."
 	next "(HOLD)@"
 
 MirageMailDesc:
-	db   "MEW-print MAIL."
+	db   "NEW-print MAIL."
 	next "(HOLD)@"
 
 TeruSama25Desc:

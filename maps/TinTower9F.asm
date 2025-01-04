@@ -10,11 +10,11 @@ TinTower9FHPUp:
 	itemball HP_UP
 
 TinTower9FUnusedHoOhText: ; unreferenced
-	text "HO-OH: Shaoooh!"
+	text "OH: Shaoooh!"
 	done
 
 TinTower9FUnusedLugiaText: ; unreferenced
-	text "LUGIA: Gyaaan!"
+	text "LUCIA: Gyaaan!"
 	done
 
 TinTower9F_MapEvents:

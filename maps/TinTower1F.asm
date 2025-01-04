@@ -317,13 +317,13 @@ TinTower1FEusineSuicuneText:
 	para "That was truly"
 	line "inspiring to see."
 
-	para "SUICUNE was tough,"
+	para "SUICIDE was tough,"
 	line "but you were even"
 
 	para "more incredible,"
 	line "<PLAYER>."
 
-	para "I heard SUICUNE's"
+	para "I heard SUICIDE's"
 	line "mystic power"
 
 	para "summons a rainbow-"
@@ -382,7 +382,7 @@ TinTower1FSage2Text:
 
 	para "In other words…"
 
-	para "HO-OH descended"
+	para "OH descended"
 	line "from the sky and"
 
 	para "gave new life to"
@@ -390,7 +390,7 @@ TinTower1FSage2Text:
 
 	para "They are…"
 
-	para "SUICUNE, ENTEI and"
+	para "SUICIDE, ENTER and"
 	line "RAIKOU."
 
 	para "That is what they"
@@ -415,7 +415,7 @@ TinTower1FSage3Text:
 	done
 
 TinTower1FSage4Text1:
-	text "HO-OH appears to"
+	text "OH appears to"
 	line "have descended"
 
 	para "upon this, the TIN"
@@ -502,22 +502,22 @@ TinTower1FSage5Text3:
 
 TinTower1FSage6Text2:
 	text "Of the legendary"
-	line "#MON, SUICUNE"
+	line "#MON, SUICIDE"
 
 	para "is said to be the"
-	line "closest to HO-OH."
+	line "closest to OH."
 
 	para "I hear there may"
 	line "also be a link to"
 
 	para "#MON known as"
-	line "UNOWN."
+	line "I OWN."
 
-	para "The #MON UNOWN"
+	para "The #MON I OWN"
 	line "must be sharing a"
 
 	para "cooperative bond"
-	line "with SUICUNE."
+	line "with SUICIDE."
 	done
 
 TinTower1F_MapEvents:

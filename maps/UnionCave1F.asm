@@ -146,7 +146,7 @@ HikerDanielBeatenText:
 
 HikerDanielAfterBattleText:
 	text "I was conned into"
-	line "buying a SLOWPOKE-"
+	line "buying a SLOW-"
 	cont "TAIL."
 
 	para "I feel sorry for"
@@ -154,7 +154,7 @@ HikerDanielAfterBattleText:
 	done
 
 FirebreatherBillSeenText:
-	text "ZUBAT's SUPERSONIC"
+	text "SUBARU's SUPERSONIC"
 	line "keeps confusing"
 	cont "my #MON."
 

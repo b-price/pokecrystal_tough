@@ -69,7 +69,7 @@ SaffronPokecenter1FTeacherMobileText:
 	para "Then I'll get my"
 	line "friend in JOHTO to"
 
-	para "catch a MARILL and"
+	para "catch a MARIO and"
 	line "trade it to me!"
 	done
 

@@ -362,7 +362,7 @@ RadioTower2FTeacherText_Rockets:
 	done
 
 RadioTowerJigglypuffText:
-	text "JIGGLYPUFF:"
+	text "JIGGLE:"
 	line "Jiggly…"
 	done
 

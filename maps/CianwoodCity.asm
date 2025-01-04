@@ -302,16 +302,16 @@ EusineSuicuneText:
 	line "<PLAYER>."
 
 	para "Wasn't that"
-	line "SUICUNE just now?"
+	line "SUICIDE just now?"
 
 	para "I only caught a"
 	line "quick glimpse, but"
 
 	para "I thought I saw"
-	line "SUICUNE running on"
+	line "SUICIDE running on"
 	cont "the waves."
 
-	para "SUICUNE is beau-"
+	para "SUICIDE is beau-"
 	line "tiful and grand."
 
 	para "And it races"
@@ -323,13 +323,13 @@ EusineSuicuneText:
 	para "It's wonderful…"
 
 	para "I want to see"
-	line "SUICUNE up close…"
+	line "SUICIDE up close…"
 
 	para "I've decided."
 
 	para "I'll battle you as"
 	line "a trainer to earn"
-	cont "SUICUNE's respect!"
+	cont "SUICIDE's respect!"
 
 	para "Come on, <PLAYER>."
 	line "Let's battle now!"
@@ -351,7 +351,7 @@ EusineAfterText:
 
 	para "I'm going to keep"
 	line "searching for"
-	cont "SUICUNE."
+	cont "SUICIDE."
 
 	para "I'm sure we'll see"
 	line "each other again."

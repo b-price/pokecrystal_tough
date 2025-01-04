@@ -140,7 +140,7 @@ PokemonFanClubChairmanRapidashText:
 	line "Then listen up!"
 
 	para "So… my favorite"
-	line "RAPIDASH…"
+	line "RAPIDS…"
 
 	para "It… cute… lovely…"
 	line "smart… unbearably…"
@@ -205,7 +205,7 @@ PokemonFanClubReceptionistText:
 
 PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
 	text "I love the way"
-	line "CLEFAIRY waggles"
+	line "CLARITY waggles"
 
 	para "its finger when"
 	line "it's trying to use"
@@ -215,7 +215,7 @@ PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
 	done
 
 PokemonFanClubClefairyGuyMakingDoWithADollIFoundText:
-	text "I love CLEFAIRY,"
+	text "I love CLARITY,"
 	line "but I could never"
 
 	para "catch one. So I'm"
@@ -238,7 +238,7 @@ PokemonFanClubClefairyGuyTakeThisDollBackToGirlText:
 	line "little girl?"
 
 	para "I'll befriend a"
-	line "real CLEFAIRY on"
+	line "real CLARITY on"
 
 	para "my own one day."
 	line "No worries!"
@@ -253,7 +253,7 @@ PokemonFanClubClefairyGuyGoingToGetARealClefairyText:
 	text "You watch. I'm"
 	line "going to get a"
 
-	para "real CLEFAIRY as"
+	para "real CLARITY as"
 	line "my friend."
 	done
 
@@ -264,23 +264,23 @@ PokemonFanClubClefairyGuyPackIsJammedFullText:
 
 PokemonFanClubTeacherText:
 	text "Look at my darling"
-	line "BAYLEEF!"
+	line "BAYLEE'S!"
 
 	para "The leaf on its"
 	line "head is so cute!"
 	done
 
 PokemonFanClubClefairyDollText:
-	text "It's a CLEFAIRY!"
+	text "It's a CLARITY!"
 	line "Huh?"
 
 	para "Oh, right. It's a"
-	line "CLEFAIRY #"
+	line "CLARITY #"
 	cont "DOLL."
 	done
 
 PokemonFanClubBayleefText:
-	text "BAYLEEF: Li liif!"
+	text "BAYLEE'S: Li liif!"
 	done
 
 PokemonFanClubListenSignText:

@@ -120,7 +120,7 @@ Route2SignText:
 	done
 
 Route2DiglettsCaveSignText:
-	text "DIGLETT'S CAVE"
+	text "DO GETTIN'S CAVE"
 	done
 	
 Route2ViridianForestSignText:

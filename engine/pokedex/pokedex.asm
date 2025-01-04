@@ -1205,7 +1205,7 @@ Pokedex_DrawOptionScreenBG:
 	db   "@"
 
 .UnownMode:
-	db "UNOWN MODE@"
+	db "I OWN MODE@"
 
 Pokedex_DrawSearchScreenBG:
 	call Pokedex_FillBackgroundColor2
@@ -1740,7 +1740,7 @@ Pokedex_DisplayModeDescription:
 	next "alphabetically.@"
 
 .UnownMode:
-	db   "UNOWN are listed"
+	db   "I OWN are listed"
 	next "in catching order.@"
 
 Pokedex_DisplayChangingModesMessage:
